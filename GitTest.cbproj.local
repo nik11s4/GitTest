@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/03/28 23:41:59.000.508,=C:\Users\alex\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/03/28 23:41:59.000.307,=C:\Users\alex\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/03/28 23:45:42.000.910,D:\git\TESTGit\WMain.h=C:\Users\alex\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2020/03/28 23:45:42.000.910,D:\git\TESTGit\WMain.dfm=C:\Users\alex\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/03/28 23:45:42.000.910,D:\git\TESTGit\WMain.cpp=C:\Users\alex\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/03/28 23:45:57.000.544,D:\git\TESTGit\Project1PCH1.h=C:\Users\alex\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/03/28 23:46:09.000.886,D:\git\TESTGit\GitTest.cbproj=C:\Users\alex\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2020/03/28 23:46:09.000.816,D:\git\TESTGit\GitTestPCH1.h=D:\git\TESTGit\Project1PCH1.h</Transaction>
+  </Transactions>
+</BorlandProject>
